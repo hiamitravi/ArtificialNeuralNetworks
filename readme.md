@@ -1,1 +1,1 @@
-Artificial Neural Network Python algorithm 
+Artificial Neural Network Python algorithm.
